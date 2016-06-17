@@ -1,0 +1,28 @@
+name: wildernessmedical
+favicon: null
+layout_spectrum: 0.7934669856913388
+typography_spectrum: 0.28065139474347234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.15115848719142377
+  lightness: 0.3759803236462176
+  saturation: 0.8990125807467848
+  rhythmicContrast: 0.11085499846376479
+purpose: []
